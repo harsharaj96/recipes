@@ -1,0 +1,11 @@
+Ingredients:
+  - 1 teaspoon sugar
+  - 1/2 glass water
+  - 1 teaspoon tea powder
+  - 1/2 glass milk
+
+Directions:
+  1. Boil water with sugar and tea powder.
+  2. Wait for 5 minutes.
+  3. Add milk to boiled water.
+  4. Filter the mixture and pour in a glass.
